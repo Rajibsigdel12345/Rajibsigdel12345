@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajibsigdel12345
 - 👀 I’m interested in various categories such as python ,Computer Vision and Natural Language processing
-- 🌱 I’m currently learning Machine learning and algorithms to enhance my Data Science skills
+- 🌱 I’m currently learning Machine learning and algorithms to enhance my ML skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can easily reach me on my social media by 
 - [Facebook](https://www.facebook.com/Razevesigdel1)
