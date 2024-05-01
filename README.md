@@ -1,3 +1,10 @@
+
+<h1 align= "center">Good Day to you all developers!</h1>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rajibsigdel12345&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - 👋 Hi, I’m @Rajibsigdel12345
 - 👀 I’m interested in various categories such as python ,Computer Vision and Natural Language processing
 - 🌱 I’m currently learning Machine learning and algorithms to enhance my ML skills
