@@ -1,16 +1,28 @@
-name: Wakatime Charts
+name: Update Wakatime Stats
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 
 jobs:
-  update-charts:
-    name: Update wakatime stats charts
+  update-stats:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: dvjn/wakatime-charts@master
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
+          python-version: '3.x'
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Fetch Wakatime data
+        run: |
+          python assets/fetch.py  
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update Wakatime stats"
+          branch: main  # Replace with your branch name
