@@ -1,15 +1,15 @@
-name: Waka Readme
+name: Wakatime Charts
 
 on:
-  schedule:
-    # Runs at 12am IST
-    - cron: "30 18 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  update-charts:
+    name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: dvjn/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
