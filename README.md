@@ -28,10 +28,13 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rajibsigdel12345&theme=transparent&show_icons=true" alt="Rajib's GitHub stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajibsigdel12345&layout=donut&theme=transparent&show_icons=true" alt="Top Languages"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajibsigdel12345&layout=donut&theme=transparent" alt="Top Languages"/>
 </a>
 
 <!--END_SECTION:waka-->
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rajib_sigdel&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center"  width = 47% src="https://github-readme-stats.vercel.app/api/wakatime?username=Rajib_sigdel&theme=transparent" alt="Wakka Time stats"/>
+</a>
