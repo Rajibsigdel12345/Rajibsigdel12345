@@ -22,6 +22,16 @@ You can click the Preview link to take a look at your changes.
   src="https://github.com/Rajibsigdel12345/<repository-name>/blob/<branch-name>/images/stat.svg"
   alt="Alternative Text"
 /> -->
+<br>
 
 <!--START_SECTION:waka-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rajibsigdel12345&theme=transparent&show_icons=true" alt="Rajib's GitHub stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajibsigdel12345&layout=donut&theme=transparent&show_icons=true" alt="Top Languages"/>
+</a>
+
 <!--END_SECTION:waka-->
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rajibsigdel12345)](https://github.com/anuraghazra/github-readme-stats)
