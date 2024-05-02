@@ -34,4 +34,4 @@ You can click the Preview link to take a look at your changes.
 
 <!--END_SECTION:waka-->
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rajibsigdel12345)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rajib_sigdel&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
